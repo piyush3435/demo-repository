@@ -4,4 +4,4 @@ This is the demo repository for learning git and github.
 <br>
 New Changes
 <br>
-Auther - Piyush Singh
+Auther - Piyush Singh(ilu)
